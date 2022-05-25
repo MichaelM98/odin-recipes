@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is meant to showcase my beginner html skills, I hope you ejoy!
